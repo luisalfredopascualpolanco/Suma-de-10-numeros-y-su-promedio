@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\bin\Debug\proyecto10.2.exe.config
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\bin\Debug\proyecto10.2.exe
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\bin\Debug\proyecto10.2.pdb
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\obj\Debug\proyecto10.2.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\obj\Debug\proyecto10.2.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\obj\Debug\proyecto10.2.exe
+D:\Programas\Cursos\C# ya\Suma-de-10-numeros-y-su-promedio\proyecto10.2\proyecto10.2\obj\Debug\proyecto10.2.pdb
