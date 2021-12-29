@@ -13,7 +13,7 @@ namespace proyecto10._2
             try
             {
                 int posicion;
-                int sumatoria = 0;
+                double sumatoria = 0;
                 double promedio = 0;
 
                 for (int i = 0; i < 10; i++)
